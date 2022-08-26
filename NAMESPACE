@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+#' @importFrom ("stats","gtools")
+#' @import (Hmisc)
+
+
+
